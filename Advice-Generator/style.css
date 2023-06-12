@@ -1,0 +1,46 @@
+body{
+    background-color:#324f7e ;
+}
+
+button{
+    border-radius: 5px;
+    color: #D8C4B6;
+    margin-left: 46%;
+    margin-top: 40%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.adviceBox{
+    background-color: #4F709C;
+    color: #D8C4B6;
+    height: 60%;
+    width: 50%;
+    margin: auto;
+    position: absolute;
+    top:50%;
+    left: 25%;
+    transform: translate(0,-50%);
+    border-radius: 9px;
+    box-sizing: border-box;
+    padding: 5%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#adviceTitle{
+    font-family: 'Orbit', sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    letter-spacing: 7px;
+    text-align: center;
+
+}
+
+#advice{
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+    font-size: 40px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 6%;
+}
